@@ -192,6 +192,7 @@ namespace Lab_CadastroDeProdutos
         private void txtCodigo_TextChanged(object sender, EventArgs e)
         {
             
+
         }
     }
 }
